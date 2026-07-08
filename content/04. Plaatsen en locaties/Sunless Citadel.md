@@ -1,0 +1,1 @@
+Gezonken citadel, vroeger een plek van een drakencult, nu lijkt het meer een plek waar goblins zich hebben verzameld. 
