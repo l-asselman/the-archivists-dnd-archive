@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: the-archivists-dnd-archive.github.io
+  baseUrl: l-asselman.github.io/the-archivists-dnd-archive
   ignorePatterns:
     - private
     - templates
